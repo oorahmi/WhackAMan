@@ -15,11 +15,12 @@
 * File I/O
 * Debugging/Patience
 * Threading
+* How Computers run programs (function stack)
 * Cache and Memory behaviour
 * Dynamic Programming
 * Testing effectively no TDD
 * Functional programming
-* Vim or Emacs / Which editor tyypo use
+* Vim or Emacs / Which editor to use
 
 
 
@@ -59,7 +60,7 @@
   * Moles Killed
 
 # Good Resources to keep in mind
-These may be hard to grasp, but it should be a goal to understand where these ideas are coming from
+These may be hard to grasp, but it should be a goal to understand where these ideas are coming from.
 Basically all of these come from the video games field. IMO if you can program games, you can program anything. Games are very very difficult.
 Games seem to be the most public field of programming that is looking to push the limits of what a computer can do.
 
