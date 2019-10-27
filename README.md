@@ -60,9 +60,6 @@
   * Moles Killed
 
 # Good Resources to keep in mind
-These may be hard to grasp, but it should be a goal to understand where these ideas are coming from.
-Basically all of these come from the video games field. IMO if you can program games, you can program anything. Games are very very difficult.
-Games seem to be the most public field of programming that is looking to push the limits of what a computer can do.
 
 * [Should I be making another method, why?](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 
