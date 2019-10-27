@@ -6,7 +6,7 @@
 * Open a git bash here and run:
  `git clone https://github.com/oorahmi/WhackAMan`
 
-# Important Concepts to Learn in Writing Software
+# Important Concepts to Learn for Writing Software
 * git / simple source control
 * Common programming concepts (looping, conditionals, operators,)
 * Data Structures When, Why, and How they work(Array, Linked List, Queue, Trees, Heaps, HashMaps)
@@ -66,8 +66,6 @@ Games seem to be the most public field of programming that is looking to push th
 
 * [Should I be making another method, why?](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 
-* [Is software getting better?](https://www.youtube.com/watch?v=k56wra39lwA)
-
 * [Be sure to Test effectively](https://www.youtube.com/watch?v=21JlBOxgGwY)
 
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
@@ -76,5 +74,4 @@ Games seem to be the most public field of programming that is looking to push th
 
 * [Life optimization when programming is important](https://www.youtube.com/watch?time_continue=5&v=JjDsP5n2kSM)
 
-As you can see I'm a big fan of Johnathan Blow's thoughts on programming.
-Another good source for low-level stuff and thoughts on software in general is Casey Muratori, .
+* [Is software getting better?](https://www.youtube.com/watch?v=k56wra39lwA)
